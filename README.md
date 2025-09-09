@@ -4,4 +4,6 @@
 
 <p> here's the link to the movie(映画) recommender system</p>
 
-&gt; live : https://eiga-system.streamlit.app <br>
+<img src="eiga-img.png"/>
+
+&gt; live link : https://eiga-system.streamlit.app <br>
